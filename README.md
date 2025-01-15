@@ -1,6 +1,6 @@
 # msft-haui
 
-![](images\msft_logo.png)
+![](https://raw.githubusercontent.com/haui-msft/General/refs/heads/main/images/msft_logo.png)
 
 ## Purpose
 - Everything I do and I think may be useful for others, I publish here
