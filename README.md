@@ -9,8 +9,8 @@
 
 ## ToC
   <ul>
-    <li><a href="#project1">Project 1</a></li>
-    <li><a href="#project2">Project 2</a></li>
+    <li><a href="#project-1">Project 1</a></li>
+    <li><a href="#project-2">Project 2</a></li>
   </ul>
 
 
