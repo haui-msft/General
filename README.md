@@ -1,4 +1,4 @@
-# msft-haui
+# msft-haui/General
 
 ![](https://raw.githubusercontent.com/haui-msft/General/refs/heads/main/images/msft_logo.png)
 
@@ -12,3 +12,10 @@
     <li><a href="#project1">Project 1</a></li>
     <li><a href="#project2">Project 2</a></li>
   </ul>
+
+
+## Project 1
+tbd
+
+## Project 2
+tbd
